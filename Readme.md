@@ -1,5 +1,7 @@
 # DataTables plug-in for jQuery
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/DataTables.svg)](https://www.guardrails.io)
+
 DataTables is a table enhancing plug-in for the [jQuery](//jquery.com) Javascript library, adding sorting, paging and filtering abilities to plain HTML tables with minimal effort. The stated goal of DataTables is:
 
 > To enhance the accessibility of data in HTML tables.
